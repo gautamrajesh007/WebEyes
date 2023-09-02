@@ -1,3 +1,5 @@
 # Directories to be excluded
 
 .idea/
+.opencv/
+.vscode/
