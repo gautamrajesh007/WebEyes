@@ -12,7 +12,7 @@ prev_frame_time = 0
 fps_counter = 0
 
 # model
-model = YOLO("Models/Pt_models/yolov8n.pt")
+model = YOLO("Models/Pt_models/Yolov5_Models/yolov5n.pt")
 
 while True:
     success, img = cap.read()
